@@ -4,9 +4,9 @@
 
 DonutSMP client — **Krypton Client** download
 
-[![Download Krypton Client](https://custom-icon-badges.demolab.com/badge/Download-2ea44f?style=for-the-badge&logo=download&logoColor=white)](../../releases/latest/download/Krypton-Client-1.21.11-fix.jar)
+[![Download Krypton Client](https://custom-icon-badges.demolab.com/badge/Download-2ea44f?style=for-the-badge&logo=download&logoColor=white)](../../releases/latest/download/Krypton-Client-1.21.11.jar)
 
-If the download doesn't start, click **[here](../../releases/latest/download/Krypton-Client-1.21.11-fix.jar)**.
+If the download doesn't start, click **[here](../../releases/latest/download/Krypton-Client-1.21.11.jar)**.
 
 ---
 
@@ -38,10 +38,9 @@ If the download doesn't start, click **[here](../../releases/latest/download/Kry
 
 ---
 
-## Krypton Client Download (Free)
+## Krypton Client Download
 
-Looking for **Krypton Client free version**? You're in the right place.
-> No paywall. No subscription. **Krypton Client** is free forever.
+Looking for the latest **Krypton Client** version? You're in the right place.
 
 ---
 
