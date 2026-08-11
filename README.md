@@ -2,23 +2,26 @@
 
 <img src="https://i.imgur.com/kFHrdWf.jpeg" width="600"/>
 
-DonutSMP client — **Krypton Client** download
+## Download Krypton Client
 
-[![Download Krypton Client](https://custom-icon-badges.demolab.com/badge/Download-2ea44f?style=for-the-badge&logo=download&logoColor=white)](../../releases/latest/download/Krypton-Client-1.21.11.jar)
+[![Minecraft 1.21.11](https://img.shields.io/badge/Minecraft-1.21.11-62B47A?style=flat-square)](#requirements)
+[![Fabric Loader](https://img.shields.io/badge/Loader-Fabric-DBD0B4?style=flat-square)](#requirements)
 
-If the download doesn't start, click **[here](../../releases/latest/download/Krypton-Client-1.21.11.jar)**.
+[![Download Krypton Client](https://custom-icon-badges.demolab.com/badge/DOWNLOAD%20KRYPTON%20CLIENT-238636?style=for-the-badge&logo=download&logoColor=white)](../../releases/latest/download/Krypton-Client-1.21.11.jar)
+
+If the button doesn't work, **[download here](../../releases/latest/download/Krypton-Client-1.21.11.jar)**.
 
 ---
 
 ## What is Krypton Client?
 
-**Krypton Client** is a powerful **DonutSMP client** built for Minecraft players who want an edge on **Donut SMP** this repo is the official home for the latest **Krypton Client** release.
+**Krypton Client** is a **DonutSMP client** for Minecraft 1.21.11, built for players who want additional client-side features on **DonutSMP**.
 
 ---
 
-## Virus Scan — Krypton Client is Clean
+## Virus Scan Results
 
-**Krypton Client** has been scanned and verified clean. No malware, no trojans, no miners.
+The **Krypton Client** JAR has been submitted to Kaspersky OpenTip and VirusTotal. Review the linked reports below.
 
 ### Kaspersky OpenTip
 
@@ -38,12 +41,6 @@ If the download doesn't start, click **[here](../../releases/latest/download/Kry
 
 ---
 
-## Krypton Client Download
-
-Looking for the latest **Krypton Client** version? You're in the right place.
-
----
-
 ## Krypton Client Installation Guide
 
 ### Requirements
@@ -53,7 +50,7 @@ Looking for the latest **Krypton Client** version? You're in the right place.
 - Java 17 or higher
 
 ### Steps
-1. Go to the **[Releases](../../releases)** tab on this repo
-2. Download the latest `Krypton-Client-1.21.11.jar`  
-3. Place the JAR in your `.minecraft/mods` folder (Fabric)  
-4. Launch Minecraft with **Fabric Loader** installed  
+1. Go to the **[Releases](../../releases)** tab in this repository.
+2. Download the latest `Krypton-Client-1.21.11.jar`.
+3. Place the JAR in your `.minecraft/mods` folder.
+4. Launch Minecraft with **Fabric Loader** installed.
